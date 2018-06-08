@@ -265,6 +265,7 @@ template:normal
 .right-column[
 
 Vi ved SKDE vil skrive store deler av rapporten, inkludert
+- Forord
 - Innledning
 - Beskrivelse av utvalg
 - Beskrivelse av resultater
